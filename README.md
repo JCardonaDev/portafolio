@@ -8,7 +8,7 @@ Este es mi portafolio personal creado con HTML, CSS y JavaScript.
 - js
 
 
-Puedes verlo en vivo aquí: [Mi Portafolio](JCardonaDev/portafolio.github.io/)
+Puedes verlo en vivo aquí: [Mi Portafolio](https://jcardonadev.github.io/portafolio/)
 
 
 ![Vista previa](/Vista%20previa.png)
