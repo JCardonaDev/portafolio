@@ -5,7 +5,6 @@ Este es mi portafolio personal creado con HTML, CSS y JavaScript.
 - HTML
 - CSS
 - JavaScript
-- js
 
 
 Puedes verlo en vivo aquí: [Mi Portafolio](https://jcardonadev.github.io/portafolio/)
